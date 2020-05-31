@@ -1,0 +1,10 @@
+#
+# fips-compressonator
+#
+---
+exports:
+    header-dirs: 
+    - include
+    lib-dirs:
+    - libs/${FIPS_PLATFORM_NAME}
+
